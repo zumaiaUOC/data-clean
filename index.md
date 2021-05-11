@@ -12,7 +12,7 @@ subtitle: Práctica 2: Limpieza y análisis de datos
 ## Autores
 
         Oscar Rojo Martín         zumaia@uoc.edu
-        Álvaro Rodríguez Pardo    alvarorp22@uoc.edu
+        
 
 ## Acerca de este software
 
@@ -33,7 +33,7 @@ Puede chequear el dataset en la siguiente dirección:
 ## Autores
 
         Oscar Rojo Martín         zumaia@uoc.edu
-        Álvaro Rodríguez Pardo    alvarorp22@uoc.edu
+        
         
 
 
@@ -153,7 +153,7 @@ Integrante 1:
         
 Integrante 2:
 
-        Álvaro Rodríguez Pardo    alvarorp22@uoc.edu
+        A
 
 ## DOI
 
