@@ -95,14 +95,10 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Blog # Label
-    url     : /blog/ # url	
   - title   : Readme
     url     : Readme.md
   - title   : Repo
     url     : https://github.com/zumaiaUOC/data-clean
-  - title   : Use this template
-    url     : https://github.com/dieghernan/chulapa-101/generate
   - title   : Link
     url     : https://github.com/zumaia
 #  - title   : # Label submenu
@@ -183,7 +179,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "cheatsheet"
+      type: "Readme"
     values:
       header_type       : "hero"
       show_bottomnavs   : true
@@ -191,8 +187,8 @@ defaults:
       include_on_search : true
       show_breadcrumb   : true
       breadcrumb_list   :
-        - label: Cheatsheets
-          url: /cheatsheets
+        - label: Readme
+          url: Readme.md
 
 
 # XX. Other settings - no need to modify
