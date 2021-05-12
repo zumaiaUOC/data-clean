@@ -96,11 +96,11 @@ navbar:
     img     :  # An small image, try 30x30px
   nav:
   - title   : Readme
-    url     : Readme.md
+    url     : https://github.com/zumaiaUOC/data-clean/README.md
   - title   : Repo
     url     : https://github.com/zumaiaUOC/data-clean
-  - title   : Link
-    url     : https://github.com/zumaia
+  - title   : Dataset
+    url     : https://www.kaggle.com/sulianova/cardiovascular-disease-dataset?select=cardio_train.csv
 #  - title   : # Label submenu
 #    child:		
 #    - title: # Child label		
